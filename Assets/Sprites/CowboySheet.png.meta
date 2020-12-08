@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: e9f322211bbd0274fa38c5895303c014
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3653773035735775759
+    second: CowboySheet_0
+  - first:
+      213: -8768987414111439533
+    second: CowboySheet_1
+  - first:
+      213: 1611029175417874350
+    second: CowboySheet_2
+  - first:
+      213: 703494068299306898
+    second: CowboySheet_3
+  - first:
+      213: 670250648413101735
+    second: CowboySheet_4
+  - first:
+      213: 6999700329721523423
+    second: CowboySheet_5
+  - first:
+      213: 7993937953150122088
+    second: CowboySheet_6
+  - first:
+      213: 7861810422556600714
+    second: CowboySheet_7
+  - first:
+      213: 4860436331611320590
+    second: CowboySheet_8
+  - first:
+      213: 518786765188003408
+    second: CowboySheet_9
+  - first:
+      213: 2705048982879938124
+    second: CowboySheet_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CowboySheet_0
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 8433
+        width: 593
+        height: 891
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5811358c03b4dc0800000000000000
+      internalID: -3653773035735775759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowboySheet_1
+      rect:
+        serializedVersion: 2
+        x: 7008
+        y: 8293
+        width: 274
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355340e286c4e4680800000000000000
+      internalID: -8768987414111439533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowboySheet_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 6740
+        width: 866
+        height: 1623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7a29bdf768b5610800000000000000
+      internalID: 1611029175417874350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowboySheet_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 6730
+        width: 1414
+        height: 1618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297139ab02053c900800000000000000
+      internalID: 703494068299306898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowboySheet_4
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 6730
+        width: 1091
+        height: 1618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae5321e9653d4900800000000000000
+      internalID: 670250648413101735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowboySheet_5
+      rect:
+        serializedVersion: 2
+        x: 4101
+        y: 6730
+        width: 1200
+        height: 1618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc6c372d5ee32160800000000000000
+      internalID: 6999700329721523423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowboySheet_6
+      rect:
+        serializedVersion: 2
+        x: 5430
+        y: 6730
+        width: 842
+        height: 1618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868b606f63c20fe60800000000000000
+      internalID: 7993937953150122088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowboySheet_7
+      rect:
+        serializedVersion: 2
+        x: 6620
+        y: 6999
+        width: 2250
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8923f7fce2ca1d60800000000000000
+      internalID: 7861810422556600714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowboySheet_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3739
+        width: 1224
+        height: 2673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e017817871db37340800000000000000
+      internalID: 4860436331611320590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowboySheet_9
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 3719
+        width: 1698
+        height: 2673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056743570d9133700800000000000000
+      internalID: 518786765188003408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowboySheet_10
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1478
+        width: 866
+        height: 1623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46279cc7b34a8520800000000000000
+      internalID: 2705048982879938124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
